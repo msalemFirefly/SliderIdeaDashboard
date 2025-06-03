@@ -1,6 +1,5 @@
 // main.js
 
-const token = "eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjUyMDI1NDU5MiwiYWFpIjoxMSwidWlkIjo2Nzk1NTM3NCwiaWFkIjoiMjAyNS0wNS0zMVQxNjozOTo0NC4wMDBaIiwicGVyIjoibWU6d3JpdGUiLCJhY3RpZCI6OTU5MTQ1OSwicmduIjoidXNlMSJ9.H3VpYqp6asoeAuCnhG9FcEFFAdNr-Vee-TBKhzLndvk";
 
 
 
